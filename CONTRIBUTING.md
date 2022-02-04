@@ -33,6 +33,7 @@ The following people have contributed to this project under the terms of
 the project [license](LICENSE):
 
  - Hilary Oliver
+ - Alexander Pletzer
  
 (Contributors are identifiable with email addresses in the git version
 control logs or otherwise.)
