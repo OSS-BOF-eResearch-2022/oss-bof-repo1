@@ -10,7 +10,7 @@ Attendee prerequisite for active participation: a GitHub account.
 
 ### 1. Explain the Experiment
   - Short introductions; then we will try to:
-  - Decide some relevant topics of interest
+  - Select some relevant topics of interest
   - Create Issues on the repository for each topic
   - Add Issue comments to record the discussion and any conclusions
   - Make Pull Requests to update the summary document and close Issues
@@ -25,7 +25,7 @@ Attendee prerequisite for active participation: a GitHub account.
   - Create associated Issues on the repository, one per topic
      https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues
   - Debate topics and record anything important in Issue comments
-  - If time, attempt to make a Pull Request to address and close one of your Issues by
+  - If time permits, attempt to make a Pull Request to address and close one of your Issues by
     updating the summary document
       https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/blob/main/bof-summary.md
      - Trivial changes (e.g. to fix a typo or change formatting) can also be made, just for practice!
@@ -33,7 +33,7 @@ Attendee prerequisite for active participation: a GitHub account.
 
 ### 4. Back Together 
 
-  - Rep from each group to summarise discussion and activity
+  - Representative from each group to summarise discussion and activity
   - If no one managed a Pull Request, demo one live
   - Demo review and PR merge, to update the document and close one Issue
 
