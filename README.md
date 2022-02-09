@@ -22,7 +22,8 @@ This document will be ours, it will summarise the outcome of a group effort, whi
 
 ### 1. Introduction
   - Short introductions
-  - Explain the process, demo making a change to address an issue
+  - Explain the process
+  - Demo making a change to address an issue
 
 ### 2. All
   - Consider what topics are, or may be, of interest to attendees
