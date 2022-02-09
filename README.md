@@ -2,7 +2,7 @@
 
 This project is an experiment to create a collaborative summary of the
 eResearch NZ 2022 Birds of a Feather (BoF)
-** Open Source Software Development Dos and Don'ts**
+**Open Source Software Development Dos and Don'ts**
 
 The goal is to identify rules to become successful in Open Source Software (OSS) development. 
 In this BoF session, we will apply (somewhat simplified) OSS development methods. This will help us 
@@ -11,7 +11,7 @@ have acquired a first hand experience with OSS development, which you will then 
 a real project.
 
 Instead of working on software, we will edit a
-[document](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/blob/main/bof-summary.md) containing a list of questions to answer. 
+[document](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/blob/main/bof-summary.md) containing a list of questions. 
 New questions can be added and existing questions debated. 
 This document will be ours, it will summarise the outcome of a group effort, which of course, is what OSS is all about.
 
