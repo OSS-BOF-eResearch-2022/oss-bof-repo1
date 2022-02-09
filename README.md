@@ -1,19 +1,28 @@
 # oss-bof-repo1
 
 This project is an experiment to create a collaborative summary of the
-eResearch NZ 2022 BoF
-**OSS Development Dos and Don'ts**
-Using (somewhat simplified) Open Source development methods.
+eResearch NZ 2022 Birds of a Feather (BoF)
+** Open Source Software Development Dos and Don'ts**
+
+The goal is to identify rules to become successful in Open Source Software (OSS) development. 
+In this BoF session, we will apply (somewhat simplified) OSS development methods. This will help us 
+narrow down some common challenges encountered in OSS development. At the end of the session, you will 
+have acquired a first hand experience with OSS development, which you will then be able to transfer to 
+a real project.
+
+Instead of working on software, we will edit a
+[document](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/blob/main/bof-summary.md) containing a list of questions to answer. 
+New questions can be added and existing questions debated. 
+This document will be ours, it will summarise the outcome of a group effort, which of course, is what OSS is all about.
+
 
 **Attendee prerequisite for active participation:** a GitHub account.
 
-## BoF Agenda
+## Agenda
 
 ### 1. Introduction
   - Short introductions
   - Explain the process, demo making a change to address an issue
-  - (Note the experiment in document creation is of secondary importance to the
-    BoF topic)
 
 ### 2. All
   - Consider what topics are, or may be, of interest to attendees
@@ -34,8 +43,8 @@ Using (somewhat simplified) Open Source development methods.
  
 ### 4. All
   - Rep from each group to summarise discussion and activity
-  - If no one managed a PR, quickly demo one live
-  - Demo PR review and merge, to close an Issue
+  - Demo one pull-request (PR)
+  - Review and merge PR, to close an Issue
 
 ### 5. Wrap Up
   - What did we learn? (about *OSS Development Dos and Don'ts*)
