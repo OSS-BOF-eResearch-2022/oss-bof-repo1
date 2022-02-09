@@ -23,7 +23,7 @@ This document will be ours, it will summarise the outcome of a group effort, whi
 ### 1. Introduction
   - Short introductions
   - Explain the process
-  - Demo making a change to address an issue
+  - Demo how to make a change to [document](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/blob/main/bof-summary.md) to address an issue
 
 ### 2. All
   - Consider what topics are, or may be, of interest to attendees
