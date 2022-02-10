@@ -4,7 +4,7 @@ eResearch NZ, Feb 2022
 This is _our_ document to help you get started in the world of open-source code development. The process to improve this document is as follows:
 
 1. Add your ideas and thoughts by creating new [issues](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues),
-2. Commenting on exisiting [issues](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues). 
+2. Commenting on existing [issues](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues). 
 3. Once you have a solution that addresses a given issue, edit this document, click on "Create a new branch for this commit and start a pull request", followed by "Propose changes". Then go to [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls) and click on "Compare and pull-request". 
 4. Comment on existing [pull-requests](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls)
 5. Team members will accept, review or reject your [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls).
