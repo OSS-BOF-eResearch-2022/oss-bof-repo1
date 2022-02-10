@@ -4,7 +4,11 @@ eResearch NZ, Feb 2022
 This is _our_ document to help you get started in the world of open-source code development. 
 Add your ideas and thoughts by creating new [issues](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues), or by commenting on exisiting [issues](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues). 
 Make suggestions to improve this document by opening a [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls). 
-Each [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls) should address an [issue](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues). 
+Each [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls) should address an [issue](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues).
+
+To help you getting started, we laid down a few themes below. These can be changed, tweaked and expanded using the above process. 
+
+Happy hacking!
 
 ## Join or start your own project?
 
