@@ -6,7 +6,8 @@ Add your ideas and thoughts by creating new [issues](https://github.com/OSS-BOF-
 Make suggestions to improve this document by opening a [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls). 
 Each [pull-request](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/pulls) should address an [issue](https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1/issues).
 
-To help you getting started, we laid down a few themes below. These can be changed, tweaked and expanded using the above process. 
+To help you getting started, we laid down a few themes below. These can be changed, tweaked and expanded using the above process.
+No improvement is too small, fixing a typos and other forms of editing are a great way to contribute. 
 
 Happy hacking!
 
