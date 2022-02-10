@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using these metadata."
+authors:
+  - affiliation: "Australian Research Data Commons"
+    family-names: "Liffers"
+    given-names: "Matthias"
+    orcid: https://orcid.org/0000-0002-3639-2080
+title: "oss-bof-repo1"
+version: 0.1.0
+date-released: 2022-02-10
+license: "CC-BY-4.0"
+url: https://github.com/OSS-BOF-eResearch-2022/oss-bof-repo1
